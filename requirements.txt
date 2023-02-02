@@ -1,0 +1,5 @@
+pandas
+numpy==1.19.2
+joblib
+scikit-learn
+protobuf==3.20.*
